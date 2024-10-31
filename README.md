@@ -1,7 +1,7 @@
 <h3>Hi there, I'm Harrit</h3>
 <p>
 <a href="https://boann.eu" rel="nofollow" target="blank">boann.eu</a></br>
-<a href="https://flightsimacademy.net/" rel="nofollow" target="blank">flightsimacademy.net</a></br>
+<a href="https://klm-virtual-group.com/" rel="nofollow" target="blank">klm virtual group</a></br>
 <a href="https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&amp;screen_name=harritvanbeek" rel="nofollow" target="blank">Twitter</a>
 </p>
 
